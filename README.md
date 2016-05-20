@@ -20,9 +20,9 @@
 
 ## 看效果图对比一下子
 
- <img align="left" src="http://img.blog.csdn.net/20160520151456170" width="30%" height="30%"/>
- 
- <img align="right" src="http://img.blog.csdn.net/20160520151540118" width="30%" height="30%"/>
+ <img align="left" src="http://img.blog.csdn.net/20160520153834294" alt="修改带图片" width="240" height="427"/>
+  <img align="center" src="http://img.blog.csdn.net/20160520153856642" alt="设置成中文" width="240" height="427"/>
+  <img align="right" src="http://img.blog.csdn.net/20160520153914061" alt="系统默认" width="240" height="427"/>
 
 
 
