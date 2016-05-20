@@ -22,7 +22,7 @@
 
  <img align="left" src="http://img.blog.csdn.net/20160520153834294" alt="修改带图片" width="240" height="427"/>
   <img align="center" src="http://img.blog.csdn.net/20160520153856642" alt="设置成中文" width="240" height="427"/>
-  <img align="right" src="http://img.blog.csdn.net/20160520153914061" alt="系统默认" width="240" height="427"/>
+  <img align="right" src="http://img.blog.csdn.net/20160520154249081" alt="系统默认" width="240" height="427"/>
 
 
 
