@@ -19,12 +19,12 @@
 -------------------
 
 ## 效果图
-//![这里写图片描述](http://img.blog.csdn.net/20160520151456170)
+
 <img src="http://img.blog.csdn.net/20160520151456170" width="30%" height="30%">
 
  
  ## 系统的效果如下
- ![这里写图片描述](http://img.blog.csdn.net/20160520151540118)
+ 
  <img src="http://img.blog.csdn.net/20160520151540118" width="30%" height="30%">
 可见系统的只能有两个字“删除”
 
