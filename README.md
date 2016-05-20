@@ -21,8 +21,8 @@
 ## 看效果图对比一下子
 
  <img align="left" src="http://img.blog.csdn.net/20160520151456170" width="30%" height="30%"/>
- <img align="center" src="http://img.blog.csdn.net/20160520151540118" width="30%" height="30%"/>
- <img align="right" src="http://i.imgur.com/WBBZvmC.png" alt="SS3" width="240" height="427"/>
+ 
+ <img align="right" src="http://img.blog.csdn.net/20160520151540118" width="30%" height="30%"/>
 
 
 
